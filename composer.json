@@ -1,6 +1,6 @@
 {
-    "name": "sneha-panchal/module-customerimport",
-    "description": "Sneha_CustomerImport",
+    "name": "sneha-panchal/module-customer-import",
+    "description": "SnehaPanchal_CustomerImport",
     "type": "magento2-module",
     "license": "GPL-3.0-only",
     "authors": [
